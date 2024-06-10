@@ -16,6 +16,8 @@ While external contributions are welcome, there are certain rules and processes 
   - Provide a C/C++ implementation of any algorithm/technique provided. No dependencies or external libraries. The file, if possible, should be a single file, easily compilable from the command line, with a checkable, if possible, visual result. Technically, the file should compile with a single command line on the terminal. Of course, system libraries can be used. For example, if you write a program that uses a Windows window, it's okay to use Windows Win32 libs. The command line used to compile the program should be displayed at the top of the program.
   - External links: can only be to websites that support a non-profit, open-source approach. Links to commercial services or products are not allowed unless justified. If we feel someone writes a lesson with the intent to redirect the reader to his/her website, it will not pass the review process. However, if you are the developer of commercial or free software and want to share your experience in a given domain, we will allow you to make a reference to your work (assuming you share knowledge with the community).
 
+Once you have written some content, you can submit it for review. We will go through an editing process with you, helping to improve the content until it meets the website's educational criteria. Whether a given content is published or not remains at our sole discretion. We don't do this for controlling reasons. We welcome everyone's contributions and will do our best to help make your content great. We do this to ensure consistency across all provided content, and to be sure the content is respectful of others and aligns with the spirit of a non-profit educational project.
+
 ### Ownership
 
 The name of the author will be added to the articles. Authors need to be clear on the fact that Scratchapixel aims to function as a non-profit activity but remains the sole ownership of its founder(s). While Scratchapixel is committed to never exploit the work of others commercially, external contributors need to acknowledge that Scratchapixel may receive donations to support its work, including contributions from external authors.
@@ -27,6 +29,8 @@ All lessons should be organized into chapters, with one file per chapter. Scratc
 - No table support: because they don't display well on small screens.
 - We do support lists but not numbered lists. For a list, start each section with a `- `. You can have nested lists. To create a sublist, leave 2 spaces in front of the `- `.
 - 0 trailing space on empty lines; otherwise, files won't convert.
+
+There is room for improvement, so please make suggestions if you have any. However, please keep in mind that for now, Scratchapixel is a one-man project being developed with almost no financial resources. So, be patient as we gain momentum and understand that we need to work under certain constraints.
 
 ### LaTeX Equations
 
