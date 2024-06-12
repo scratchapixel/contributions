@@ -1,4 +1,4 @@
-This repository is where people who want to contribute to [scratchapixel.com](scratchapixel.com) by writing lessons can push their files.
+This repository is where people who want to contribute to [scratchapixel.com](https://www.scratchapixel.com/) by writing lessons can push their files.
 
 At least for the time being, the historical lessons are kept in a private repo. However, as Scratchapixel gains popularity and as more people realize it makes sense to have a single repository/website where content related to computer graphics programming is stored, more and more people with specific experience want to contribute by sharing their knowledge with others on Scratchapixel.
 
